@@ -1,4 +1,4 @@
-this is desktop application
+this is desktop application application link https://forkifymanish.vercel.app/
 
 Forkify - Recipe Search & Bookmarking App
 Forkify is a powerful web application that allows users to search for recipes, bookmark their favorite ones, and view detailed recipe instructions. It integrates with an API to fetch real-time data and provides a user-friendly interface to help food enthusiasts discover new recipes from around the world.
