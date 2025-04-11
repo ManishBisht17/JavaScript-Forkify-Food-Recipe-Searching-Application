@@ -5,7 +5,7 @@ I’m excited to share one of my favorite projects — Forkify, a recipe search 
 
 ✨ Key Features:
 
-✅ Search Recipes by ingredients, meal type, or cuisine – all in real-time using a third-party API<br/>
+✅ Search Recipes by ingredients, meal type, or cuisine – all in real-time using a third party API<br/>
 ✅ Bookmark Favorites to keep track of the recipes you love<br/>
 ✅ Detailed Recipe View – ingredients, cooking steps, and nutrition info<br/>
 ✅ Responsive UI – works smoothly on both desktop and mobile<br/>
