@@ -1,12 +1,11 @@
-<h1>🍴 Introducing Forkify – Your Personal Recipe Finder & Bookmarking App! 🚀<h1/>
+🍴 Introducing Forkify – Your Personal Recipe Finder & Bookmarking App! 🚀
 🔗 Live Demo: https://forkifymanish.vercel.app/
 
-I’m excited to share one of my favorite projects — Forkify, a recipe search and bookmarking web app built using HTML, CSS, and Vanilla JavaScript. This project focuses on functionality, real-time API integration, and a clean, responsive design.
+I’m excited to showcase Forkify, a dynamic recipe search and bookmarking web application built with HTML, CSS, and Vanilla JavaScript. This project emphasizes real-time functionality, clean responsive UI, and seamless API integration to enhance the user experience.
 
-✨ Key Features:
-
-✅ Search Recipes by ingredients, meal type, or cuisine – all in real-time using a third party API<br/>
-✅ Bookmark Favorites to keep track of the recipes you love<br/>
-✅ Detailed Recipe View – ingredients, cooking steps, and nutrition info<br/>
-✅ Responsive UI – works smoothly on both desktop and mobile<br/>
-✅ Serving Adjustment – scale ingredients based on your needs<br/>
+✨ Key Features
+✅ Real-time Recipe Search – Find recipes instantly by ingredients, meal types, or cuisine using a third-party API
+✅ Bookmarking System – Save and manage your favorite recipes with ease
+✅ Detailed Recipe View – Access ingredients, cooking instructions, and nutrition info all in one place
+✅ Responsive Design – Optimized for both desktop and mobile devices
+✅ Serving Size Adjustment – Automatically scales ingredient quantities based on selected servings
