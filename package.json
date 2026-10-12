@@ -19,7 +19,6 @@
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
     "core-js": "^3.39.0",
-    "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1"
   },
   "browserslist": [

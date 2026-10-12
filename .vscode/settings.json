@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.parcel-cache": true,
+    "**/.tmp": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/.parcel-cache/**": true,
+    "**/.tmp/**": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.parcel-cache": true,
+    "**/.tmp": true
+  },
+  "git.ignoreLimitWarning": true
+}
